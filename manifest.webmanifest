@@ -1,0 +1,15 @@
+{
+  "name": "Powerhouse AI V60.3 — Production Intelligence • Volume Radar • Pastel UI",
+  "short_name": "Powerhouse V60",
+  "description": "Read-only production market intelligence OS with opportunity lifecycle memory, data freshness, decision firewall, detection benchmarks and missed-move diagnostics.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050b12",
+  "theme_color": "#050b12",
+  "icons": [
+    {"src":"/static/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"/static/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
